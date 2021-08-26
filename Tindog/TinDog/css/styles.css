@@ -160,4 +160,7 @@ p{
     transform: rotate(0);
     text-align: center;
   }
+    .feature{
+        justify-self:centre;
+        align-self:centre;
 }
