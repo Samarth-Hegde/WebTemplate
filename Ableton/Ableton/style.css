@@ -308,3 +308,9 @@ i {
 span {
   color: blue;
 }
+
+@media (max-width:1020px) {
+  *{
+    display:none;
+  }
+}
