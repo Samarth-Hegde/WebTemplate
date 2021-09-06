@@ -305,9 +305,10 @@ i {
   margin: 0 20px;
 }
 
-span {
-  color: blue;
-}
+ .phone-display{
+    display:none;
+  }
+
 
 @media (max-width:1020px) {
   *{
