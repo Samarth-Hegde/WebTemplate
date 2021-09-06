@@ -316,5 +316,6 @@ i {
   }
   .phone-display{
     display:block;
+    font-size:1rem;
   }
 }
