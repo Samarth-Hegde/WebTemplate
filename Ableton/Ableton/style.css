@@ -311,7 +311,7 @@ i {
 
 
 @media only screen and (max-width: 600px) {
-  *{
+  body{
     display:none;
   }
   .phone-display{
